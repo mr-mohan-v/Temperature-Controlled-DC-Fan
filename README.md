@@ -1,4 +1,4 @@
-# temperature_controlled_dc_fan_using_lpc2148_microcontroller
+# Temperature-Controlled-DC-Fan
 
 # Abstract :
       ~ Generally, electronic devices produce more heat.
