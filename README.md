@@ -16,10 +16,10 @@ If the temperature drops below 35 degree Celsius -> The microcontroller will tur
                                                     which further reduces the temperature.
                                                     
 # Components used :
-  ~ LPC2148 Microcontroller
-  ~ LM35(Temperature Sensor) 
-  ~ Single Pole Double throw(SPDT)  Relay
-  ~ 12V DC Fan
-  ~ Virtual terminal
-  ~ LM016L (16 X 2 LCD Display)
-  ~ Push Button     
+      ~ LPC2148 Microcontroller
+      ~ LM35(Temperature Sensor) 
+      ~ Single Pole Double throw(SPDT) Relay
+      ~ 12V DC Fan
+      ~ Virtual terminal
+      ~ LM016L (16 X 2 LCD Display)
+      ~ Push Button     
