@@ -1,0 +1,6 @@
+Dependencies for Project 'Project_temperature_controlled_DC_fan', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4A02A570)(--device DARMP --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o")
+F (.\temperature_controlled_dc_fan_using_lm35_and_relay.c)(0x61E0066C)(-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "temperature_controlled_dc_fan_using_lm35_and_relay.o" --omf_browse "temperature_controlled_dc_fan_using_lm35_and_relay.crf" --depend "temperature_controlled_dc_fan_using_lm35_and_relay.d")
+I (C:\Keil\ARM\INC\Philips\LPC214X.H)(0x4A02A636)
+I (C:\Keil\ARM\RV31\INC\stdio.h)(0x4A02A792)
+I (C:\Keil\ARM\RV31\INC\stdlib.h)(0x4A02A792)

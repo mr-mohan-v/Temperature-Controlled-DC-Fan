@@ -1,0 +1,4 @@
+--device DARMP "startup.o" "temperature_controlled_dc_fan_using_lm35_and_relay.o" --strict --scatter "Project_temperature_controlled_DC_fan.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Project_temperature_controlled_DC_fan.map" -o "Project_temperature_controlled_DC_fan.axf"

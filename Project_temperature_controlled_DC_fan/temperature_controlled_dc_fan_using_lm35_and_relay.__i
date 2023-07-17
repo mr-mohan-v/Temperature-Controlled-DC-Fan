@@ -1,0 +1,1 @@
+-c --device DARMP -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC\Philips" -o "temperature_controlled_dc_fan_using_lm35_and_relay.o" --omf_browse "temperature_controlled_dc_fan_using_lm35_and_relay.crf" --depend "temperature_controlled_dc_fan_using_lm35_and_relay.d" "temperature_controlled_dc_fan_using_lm35_and_relay.c"

@@ -1,0 +1,20 @@
+*** Creating Trace Output File 'Project_temperature_controlled_DC_fan.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"temperature_controlled_dc_fan_using_lm35_and_relay.o"'
+### ADS-LD Command completed:
+--device DARMP "startup.o" "temperature_controlled_dc_fan_using_lm35_and_relay.o" --strict --scatter "Project_temperature_controlled_DC_fan.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Project_temperature_controlled_DC_fan.map" -o "Project_temperature_controlled_DC_fan.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'Project_temperature_controlled_DC_fan.axf'
+### ADS-LD Command File: 'Project_temperature_controlled_DC_fan.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'Project_temperature_controlled_DC_fan.lnp', Handle=0x0000065C
+### Writing '.lnp' file
+### ADS-LD Command file 'Project_temperature_controlled_DC_fan.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
